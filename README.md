@@ -1,5 +1,7 @@
 # object-detection-opencv
+
 Simple Object Detection using OpenCV
+
 ***Overview
 This project demonstrates a basic object detection system using Python and OpenCV.
 It leverages background subtraction and contour detection to identify moving objects in a live webcam feed.
